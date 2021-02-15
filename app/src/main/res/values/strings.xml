@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sleep Well</string>
+    <string name="title_activity_maps">Sleep well</string>
+    <string name="title_activity_set_alarm">SetAlarm</string>
+</resources>
